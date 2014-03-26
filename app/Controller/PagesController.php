@@ -1,6 +1,6 @@
 <?php
 /**
- * Static content controller.
+ * Comenrwerwerewrrewrewtario Static content controller.
  *
  * This file will render views from views/pages/
  *
