@@ -1,6 +1,6 @@
 <?php
 /**
- * Comentario Static content controller.
+ * Comenrwerwerewrtario Static content controller.
  *
  * This file will render views from views/pages/
  *
