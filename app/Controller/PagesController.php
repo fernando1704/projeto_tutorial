@@ -1,7 +1,7 @@
 <?php
 /**
  * Static content controller.
- *
+ * Leonardo
  * This file will render views from views/pages/
  *
  * CakePHP(tm) : Rapid Development Framework (http://cakephp.org)
